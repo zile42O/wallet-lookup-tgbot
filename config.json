@@ -1,5 +1,5 @@
 {
 	"telegram_bot_token": "",
-    "wallet_lookup_token": "walletlookup:1234567890",
-    "wallet_lookup_url": "https://api.zile42o.dev/wallet_lookup/api.php"
+	"wallet_lookup_token": "walletlookup:1234567890",
+	"wallet_lookup_url": "https://api.zile42o.dev/wallet_lookup/api.php"
 }
